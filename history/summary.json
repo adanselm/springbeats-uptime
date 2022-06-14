@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/springbeats.com.ico",
     "slug": "springbeats-home",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
     "time": 569,
     "timeDay": 480,
     "timeWeek": 631,
     "timeMonth": 645,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-14": 74,
+      "2022-06-13": 17
     }
   }
 ]
